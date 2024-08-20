@@ -1,0 +1,43 @@
+[
+    {
+        "contractName": "SubjectUtils",
+        "contractPath": "ether-email-auth/packages/contracts/src/libraries/SubjectUtils.sol",
+        "missingLibraries": [
+            "ether-email-auth/packages/contracts/src/libraries/DecimalUtils.sol:DecimalUtils"
+        ]
+    },
+    {
+        "contractName": "DecimalUtils",
+        "contractPath": "ether-email-auth/packages/contracts/src/libraries/DecimalUtils.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "DecimalUtils",
+        "contractPath": "contracts/libraries/DecimalUtils.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "SubjectUtils",
+        "contractPath": "ether-email-auth/packages/contracts/src/libraries/SubjectUtils.sol",
+        "missingLibraries": [
+            "ether-email-auth/packages/contracts/src/libraries/DecimalUtils.sol:DecimalUtils"
+        ]
+    },
+    {
+        "contractName": "DecimalUtils",
+        "contractPath": "ether-email-auth/packages/contracts/src/libraries/DecimalUtils.sol",
+        "missingLibraries": []
+    },
+    {
+        "contractName": "SubjectUtils",
+        "contractPath": "ether-email-auth/packages/contracts/src/libraries/SubjectUtils.sol",
+        "missingLibraries": [
+            "ether-email-auth/packages/contracts/src/libraries/DecimalUtils.sol:DecimalUtils"
+        ]
+    },
+    {
+        "contractName": "DecimalUtils",
+        "contractPath": "ether-email-auth/packages/contracts/src/libraries/DecimalUtils.sol",
+        "missingLibraries": []
+    }
+]
